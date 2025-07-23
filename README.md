@@ -1,12 +1,5 @@
 <p align="center">
-  <a href="https://github.com/CodeByRachit">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?s=400&v=4" alt="Rachit's GitHub Profile Picture" width="150" height="150" style="border-radius: 50%;">
-  </a>
-</p>
-
-<p align="center">
-  <img src="<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/bc39059a-a59b-447d-8dd7-1ec33c211c73" />
-" alt="Welcome GIF" width="800"/>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/main/assets/readme-typing-svg.gif" alt="Welcome GIF" width="800"/>
 </p>
 
 # Hey Everyone! 🚀
