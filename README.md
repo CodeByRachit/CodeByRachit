@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/main/assets/readme-typing-svg.gif" alt="Welcome GIF" width="800"/>
+  <img src="https://raw.githubusercontent.com/CodeByRachit/CodeByRachit/main/assets/user%20(2).gif" alt="Cool Anime Vibe" width="600"/>
+  <br>
 </p>
 
 # Hey Everyone! 🚀
