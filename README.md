@@ -4,6 +4,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/bc39059a-a59b-447d-8dd7-1ec33c211c73" />
+" alt="Welcome GIF" width="800"/>
+</p>
+
+# Hey Everyone! 🚀
+### Let's Connect and have a Chat! 💬
+
+👋 Hi there! I'm Rachit, a passionate [Your Profession/Role, e.g., aspiring Full-stack Developer, Computer Science Student, aspiring Data Analyst] currently diving deep into [Your main area of interest, e.g., web development, data science, mobile app creation]. My goal is to [Your short-term or long-term career goal, e.g., create impactful software solutions, master cloud technologies].
+
 # Hey Everyone! 🚀
 ### Let's Connect and have a Chat! 💬
 
