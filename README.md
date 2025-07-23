@@ -88,11 +88,6 @@ Here are some of the technologies and tools I frequently work with and am intere
 
 ---
 
-<p align="center">
-  <img src="YOUR_DIRECT_ANIME_IMAGE_URL_HERE" alt="Cool Anime Vibe" width="600"/>
-  <br>
-  <sub>A little bit of inspiration to keep the code flowing!</sub>
-</p>
 
 ---
 
