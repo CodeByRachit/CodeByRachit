@@ -7,11 +7,6 @@
 
 👋 Hi there! I'm Rachit, a passionate [Your Profession/Role, e.g., aspiring Full-stack Developer, Computer Science Student, aspiring Data Analyst] currently diving deep into [Your main area of interest, e.g., web development, data science, mobile app creation]. My goal is to [Your short-term or long-term career goal, e.g., create impactful software solutions, master cloud technologies].
 
-# Hey Everyone! 🚀
-### Let's Connect and have a Chat! 💬
-
-👋 Hi there! I'm Rachit, a passionate [Your Profession/Role, e.g., aspiring Full-stack Developer, Computer Science Student, aspiring Data Analyst] currently diving deep into [Your main area of interest, e.g., web development, data science, mobile app creation]. I love to [Your hobby/interest related to tech, e.g., build innovative projects, learn new programming paradigms, contribute to open-source initiatives]. My goal is to [Your short-term or long-term career goal, e.g., create impactful software solutions, master cloud technologies].
-
 ---
 
 ## 🔗 Connect with Me
