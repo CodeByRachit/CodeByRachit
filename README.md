@@ -76,7 +76,7 @@ Here are some of the technologies and tools I frequently work with and am intere
 
 ## 💡 Fun Fact:
 
-* When I'm not coding, you can find me [Your interesting hobby, e.g., exploring new cafes, playing competitive video games, binge-watching anime, reading fantasy novels]!
+* When I'm not coding, you can find me exploring new cafes, playing competitive video games, binge-watching anime, reading fantasy novels
 
 ---
 
