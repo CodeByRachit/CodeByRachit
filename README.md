@@ -104,7 +104,7 @@
 
 - 🧩 I enjoy solving complex algorithmic problems
 - 🎮 Competitive gaming & strategy-based challenges
-- 🎬 Anime + tech + finance = perfect combo 😄
+- 🎬 Games + tech + finance = perfect combo 😄
 
 ---
 
